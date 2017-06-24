@@ -1,0 +1,22 @@
+class Next_redo_break_1
+  loop{
+    print "整数を入力してください："
+    a=gets.to_i
+
+    for i in 2..a
+      if a%i==0
+        a/=i
+        redo
+      else
+        next
+      end
+
+    end
+    p a
+    print "続けますか？t/f:"
+    tf=gets.chomp
+    if tf=="f"
+      break
+    end
+  }
+end

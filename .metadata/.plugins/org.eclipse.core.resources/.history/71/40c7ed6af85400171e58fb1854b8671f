@@ -1,0 +1,7 @@
+class File_write
+
+  name=AGV[0]
+  file=open(name,"r+")
+  text=file.read
+
+end

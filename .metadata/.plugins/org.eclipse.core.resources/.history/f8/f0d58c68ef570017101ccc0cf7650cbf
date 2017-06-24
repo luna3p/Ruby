@@ -1,0 +1,9 @@
+class String_
+  def count
+    array=self.split(/s+/)
+    return array.size
+  end
+end
+
+str="Sunday Monday Tuesday Wednesday"
+p str.count

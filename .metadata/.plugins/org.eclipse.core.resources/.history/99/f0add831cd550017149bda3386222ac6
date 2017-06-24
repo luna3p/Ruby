@@ -1,0 +1,17 @@
+class Casemathod
+  #caseメソッドは比較対象が1つでその条件が複数ある場合に使われる。
+  s="AかBかCを入力:"
+  print s,"a="
+  a=gets.to
+  
+  case a
+  when "A\n"
+    print "a is A"
+  when "B\n"
+    print "a is B"
+  when "C\n"
+    print "a is C"
+  else
+    print "a is other"
+  end
+end

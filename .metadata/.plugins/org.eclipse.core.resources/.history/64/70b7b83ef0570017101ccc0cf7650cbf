@@ -1,0 +1,14 @@
+class String
+  def count
+    p self
+    array=self.split(/s+/)
+    return array.size
+  end
+end
+
+str="Sunday Monday Tuesday Wednesday"
+a = str.count
+p a
+a.each do |i|
+  p i
+end

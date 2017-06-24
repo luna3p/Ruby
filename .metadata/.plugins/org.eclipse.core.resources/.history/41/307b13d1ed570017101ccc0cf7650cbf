@@ -1,0 +1,9 @@
+class String_array_size
+  def count_word
+    array=self.split(" ")
+    return array.size
+  end
+end
+
+str="Sunday Monday Tuesday Wednesday"
+print str.count_word

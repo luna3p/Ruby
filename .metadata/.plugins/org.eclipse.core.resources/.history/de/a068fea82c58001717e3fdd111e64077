@@ -1,0 +1,8 @@
+class Literal
+  p 123    #10進数
+  p 0123   #8進数
+  p 0d123  #10進数
+  p 0x123  #16進数
+  x="a".to_i
+  p a#aのASCIIコード
+end

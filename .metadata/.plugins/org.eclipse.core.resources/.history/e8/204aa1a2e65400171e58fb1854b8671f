@@ -1,0 +1,4 @@
+class PrintArgv
+  puts ARGV[0] 
+  puts ARGV[1]
+end

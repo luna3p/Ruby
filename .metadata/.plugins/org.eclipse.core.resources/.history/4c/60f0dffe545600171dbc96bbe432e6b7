@@ -1,0 +1,7 @@
+class Each
+  name=["a","b","c","d"]
+  
+  name.each{|i|
+    p i
+  }
+end

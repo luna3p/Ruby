@@ -1,0 +1,9 @@
+class PrintArgv
+  p ARGV[0] #=>コマンドライン入力引数1
+  p ARGV[1] #=>コマンドライン入力引数2
+
+  a=ARGV[0].to_i;
+  b=ARGV[1].to_i;
+  p a
+  p b
+end

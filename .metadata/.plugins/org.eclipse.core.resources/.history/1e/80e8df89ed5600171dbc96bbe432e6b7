@@ -1,0 +1,9 @@
+class Next_redo_break
+  loop{
+    print "0~9の数を入力いてください："
+    b=gets.to_i
+    if b>=0 && b<=9
+      break
+    end
+  }
+end

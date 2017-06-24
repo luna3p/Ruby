@@ -1,0 +1,20 @@
+include pp
+
+class File_pattern
+
+  pattern=Regexp.new(ARGV[0])
+
+  filename=ARGV[1]
+
+
+  #fileの中身のうちpatternに格納された文字列のある行のみ出力
+  
+  file=open(filename)do |f|    
+    while text=f.gets do
+      if pattern =~ text
+        pp text
+      end
+    end
+  end
+
+end

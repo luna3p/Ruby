@@ -1,0 +1,7 @@
+class Empty_TF
+  #empty?メソッドは文字列の長さが0の時にtrueを返す。
+  a=""
+  b=12
+  p a.empty?
+  p b.empty? ,b
+end

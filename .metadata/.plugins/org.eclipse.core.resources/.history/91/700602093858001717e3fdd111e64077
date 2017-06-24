@@ -1,0 +1,6 @@
+include Math
+class MathModule
+  
+  p PI
+  p sin(1)
+end

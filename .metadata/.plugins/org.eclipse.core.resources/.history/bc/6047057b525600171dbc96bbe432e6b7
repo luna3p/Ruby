@@ -1,0 +1,9 @@
+class For
+
+  sum=0
+  for i in 1..10
+    sum=sum+i
+    p sum
+  end
+  print "sum=",sum
+end

@@ -1,0 +1,5 @@
+class Literal
+  p 123    #10進数
+  p 0123   #8進数
+  p 
+end

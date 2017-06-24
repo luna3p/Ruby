@@ -1,0 +1,5 @@
+class File_R_L
+  file=open(ARGV[0],"r+") do |f|
+    f.puts(abcdefg)
+end
+end

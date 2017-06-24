@@ -1,0 +1,5 @@
+class version
+  Version = "1.0"
+end
+
+p version::Version

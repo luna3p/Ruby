@@ -1,0 +1,16 @@
+class Callclass
+  def pub
+    puts "pub is public method"
+  end
+  public :pub #pubメソッドをpublicに設定
+  
+  def priv
+    puts "priv is private method"
+  end
+  private :priv
+  
+end
+
+acc= Callclass.new
+acc.pub
+acc.priv

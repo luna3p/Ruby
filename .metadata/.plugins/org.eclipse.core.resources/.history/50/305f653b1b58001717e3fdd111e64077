@@ -1,0 +1,8 @@
+def Downcse(array, index)
+  if str =array[index]
+    return str.downcase
+  end
+end
+
+ary=["Boo", "Foo", "Woo"]
+p Downcase(ary, 1)

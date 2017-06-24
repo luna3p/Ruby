@@ -1,0 +1,34 @@
+class HelloWorld
+  def initialize(myname="Ryby")
+    @name=myname
+  end
+
+  def hello
+    print "Hello, World. I am ", @name, ".\n"
+  end
+  
+  def name
+    return @name
+  end
+  
+  #def name=(value)
+  #  @name = value
+  #end
+  attr_accessor :name
+  #↑はname=メソッドと同じ処理をする。
+end
+
+bob = HelloWorld.new("Bob")
+alice = HelloWorld.new("Alice")
+ruby = HelloWorld.new
+
+p bob.name    #=>"Bob"
+p alice.name  #=>"Alice"
+p ruby.name   #=>"Ryby"
+
+bob.name = "Robert" #name=メソッドに"Robert"を代入
+
+bob.hello     #=>Hello, World. I am Robert.
+alice.hello   #=>Hello, World. I am Alice.
+ruby.hello    #=>Hello, World. I am Ryby.
+

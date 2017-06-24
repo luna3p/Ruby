@@ -1,0 +1,7 @@
+class Hash
+#
+  hash_table={"zero"=>0,"one"=>1,"two"=>2}
+  puts hash_table["zero"]
+  puts hash_table["one"]
+  puts hash_table["two"]
+end

@@ -1,0 +1,16 @@
+class File_pattern
+
+  pattern=Regexp.new(ARGV[0])
+
+  filename=ARGV[1]
+
+
+  file=open(filename[0])do |f|
+    while text=f.gets do
+      if pattern =~ text
+        print text
+      end
+    end
+  end
+
+end

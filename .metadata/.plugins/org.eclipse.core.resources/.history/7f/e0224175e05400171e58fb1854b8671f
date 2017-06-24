@@ -1,0 +1,6 @@
+class Seiki
+
+  p /cdef/ =~"abcdefgh"
+  p /bcdef/ =~"abcdef"
+  p /abc/=~"abcd"
+end

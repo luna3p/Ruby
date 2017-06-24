@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename source module &apos;Each.rb&apos; to &apos;ArrayEach.rb&apos;&#x0D;&#x0A;- オリジナル要素: &apos;(default package)::Each.rb&apos;&#x0D;&#x0A;- 名前変更済み要素: &apos;(default package)::ArrayEach.rb&apos;" description="Rename source module &apos;Each.rb&apos;" flags="589830" id="org.eclipse.dltk.ui.rename.sourcemodule" input="/&lt;{Each.rb" name="ArrayEach.rb" stamp="1497633647048" version="1.0"/>
+</session>

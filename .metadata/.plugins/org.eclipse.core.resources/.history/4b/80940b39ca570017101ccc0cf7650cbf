@@ -1,0 +1,18 @@
+class Arraysort
+  
+  a=[]
+  print"配列の個数を入力してください："
+  i=gets.to_i
+  for n in 0..i 
+    print "a[",i,"]を入力してください"
+    a[i]=input_array(a,i)
+  end
+  
+  sort(a)
+  p a
+end
+
+def input_array(a,i)
+  a[i]=gets.to_i
+  return a
+end

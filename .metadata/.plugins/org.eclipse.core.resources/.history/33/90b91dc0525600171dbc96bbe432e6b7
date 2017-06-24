@@ -1,0 +1,18 @@
+class For
+
+  sum=0
+  
+=begin
+  forメソッドは
+  
+  for 変数 in 初めの数 .. 最後の数 do
+    処理
+  end
+  
+=end
+  for i in 1..10
+    sum=sum+i
+    p sum
+  end
+  print "sum=",sum
+end

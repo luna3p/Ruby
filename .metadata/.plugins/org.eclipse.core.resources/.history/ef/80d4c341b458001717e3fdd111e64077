@@ -1,0 +1,7 @@
+class Numdownto
+  ary=[]
+  10.downto(2){|i|
+    ary<<1
+  }
+  p ary
+end

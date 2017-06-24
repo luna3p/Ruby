@@ -1,0 +1,17 @@
+class Casemathod
+  #caseメソッドは比較対象が1つでその条件が複数ある場合に使われる。
+  s="整数を入力してください"
+  p s
+  a=gets
+  
+  p s
+  b=gets
+  case a
+  when a==b
+    print "a=b=",a
+  when a<b
+    puts "a<b"
+    print "a=",a
+    print ":b=",b
+  end
+end

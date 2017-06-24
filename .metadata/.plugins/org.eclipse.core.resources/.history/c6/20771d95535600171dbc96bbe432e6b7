@@ -1,0 +1,9 @@
+class Until
+  a=10
+  i=0
+  until i==a
+    
+    p i 
+    
+  end
+end

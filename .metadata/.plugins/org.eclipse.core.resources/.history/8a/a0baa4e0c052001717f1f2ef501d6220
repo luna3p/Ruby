@@ -1,0 +1,6 @@
+class HashEach
+  Hash_table={"zero"=>1,"one"=>2,"two"=>3}
+  Hash_table.eash{|key,value|
+    put key[value]
+  }
+end

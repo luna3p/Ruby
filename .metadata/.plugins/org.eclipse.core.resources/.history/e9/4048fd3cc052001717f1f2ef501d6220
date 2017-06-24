@@ -1,0 +1,6 @@
+class HashEach
+  Hash_table={"abc"=>1,"def"=>2,"ghi"=>3}
+  Hash_table.eash{|key,value|
+    print key,value
+  }
+end

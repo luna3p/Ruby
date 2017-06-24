@@ -1,0 +1,9 @@
+class HashEach
+  Hash_table={"abc"=>1,"def"=>2,"ghi"=>3}
+  Hash_table.each{|key,value|
+  print key ,"  ", value ,"\n"
+    #around(1) =>abc   1
+    #around(2) =>def   2
+    #around(3) =>ghi   3
+  }
+end
