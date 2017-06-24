@@ -1,0 +1,7 @@
+class Numstepto
+  ary=[]
+  2.stepto(20,3){|i|
+    ary<<i
+  }
+  p ary
+end

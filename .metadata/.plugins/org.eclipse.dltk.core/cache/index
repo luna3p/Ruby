@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ASCII"?>
-<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="2624" environment="org.eclipse.dltk.core.environment.localEnvironment">
+<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="2632" environment="org.eclipse.dltk.core.environment.localEnvironment">
   <entries path="C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/lib/did_you_mean/core_ext/name_error.rb" timestamp="1495709838000" lastAccessTime="1498212620352">
     <attributes name="indexed" location="2838196607/889395578/285.idx"/>
   </entries>
@@ -3282,9 +3282,6 @@
   <entries path="C:/pleiades/workspace/Ruby/Rubylearn/04&#x30e1;&#x30bd;&#x30c3;&#x30c9;" timestamp="1497626484244" lastAccessTime="1497626484507">
     <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/2481442862/2261.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/Rubylearn" timestamp="1497627220543" lastAccessTime="1497627221094">
-    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3687312290/2293.idx"/>
-  </entries>
   <entries path="C:/pleiades/workspace_Ruby/Ruby/01&#x5c0e;&#x5165;" timestamp="1497627250804" lastAccessTime="1497633589546">
     <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3687312290/2295.idx"/>
   </entries>
@@ -3394,9 +3391,6 @@
   <entries path="C:/pleiades/workspace_Ruby/Ruby/04&#x30e1;&#x30bd;&#x30c3;&#x30c9;" timestamp="1498131868122" lastAccessTime="1498212607316">
     <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3687312290/2521.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/API" timestamp="1498190741499" lastAccessTime="1498212608197">
-    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3687312290/2523.idx"/>
-  </entries>
   <entries path="C:/pleiades/workspace_Ruby/Ruby/02&#x5909;&#x6570;&#x3068;&#x6587;&#x5b57;&#x8868;&#x793a;/getinput.rb" timestamp="1498060148596" lastAccessTime="1498212604655">
     <attributes name="indexed" location="2838196607/2788400246/2537.idx"/>
   </entries>
@@ -3459,12 +3453,12 @@
   <entries path="C:/pleiades/workspace_Ruby/Ruby/07&#x30af;&#x30e9;&#x30b9;&#x30e2;&#x30b8;&#x30e5;&#x30fc;&#x30eb;" timestamp="1498227327639" lastAccessTime="1498227523103">
     <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3687312290/2603.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/remainder.rb" timestamp="1498238205287" lastAccessTime="1498238205801"/>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/MathModule.rb" timestamp="1498241572713" lastAccessTime="1498241573230"/>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/numtimes.rb" timestamp="1498289778240" lastAccessTime="1498289778781"/>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/Bit_Calc.rb" timestamp="1498289778301" lastAccessTime="1498289778795"/>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric" timestamp="1498291531278" lastAccessTime="1498291831670">
-    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3687312290/2623.idx"/>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/other/arraysort.rb" timestamp="1498191510591" lastAccessTime="1498303228436"/>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/00others" timestamp="1498303238671" lastAccessTime="1498303279175">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3687312290/2627.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/numupto.rb" timestamp="1498291618184" lastAccessTime="1498291618717"/>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/00others/arraysort.rb" timestamp="1498303278661" lastAccessTime="1498303279175"/>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric" timestamp="1498303389987" lastAccessTime="1498303430655">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3687312290/2631.idx"/>
+  </entries>
 </cache:CacheIndex>
