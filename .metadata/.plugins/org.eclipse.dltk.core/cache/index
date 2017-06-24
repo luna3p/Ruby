@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ASCII"?>
-<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="2632" environment="org.eclipse.dltk.core.environment.localEnvironment">
+<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="2650" environment="org.eclipse.dltk.core.environment.localEnvironment">
   <entries path="C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/lib/did_you_mean/core_ext/name_error.rb" timestamp="1495709838000" lastAccessTime="1498212620352">
     <attributes name="indexed" location="2838196607/889395578/285.idx"/>
   </entries>
@@ -3458,7 +3458,19 @@
     <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3687312290/2627.idx"/>
   </entries>
   <entries path="C:/pleiades/workspace_Ruby/Ruby/00others/arraysort.rb" timestamp="1498303278661" lastAccessTime="1498303279175"/>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric" timestamp="1498303389987" lastAccessTime="1498303430655">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric" timestamp="1498303389987" lastAccessTime="1498304148967">
     <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3687312290/2631.idx"/>
   </entries>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/numstep.rb" timestamp="1498303453984" lastAccessTime="1498304148967"/>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/array1.rb" timestamp="1498304356832" lastAccessTime="1498304357348"/>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/NewAray.rb" timestamp="1498307512317" lastAccessTime="1498307512827"/>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/arrayW.rb" timestamp="1498309410740" lastAccessTime="1498309411252"/>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/changeArray.rb" timestamp="1498309867203" lastAccessTime="1498309867698"/>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/split.rb" timestamp="1498310676095" lastAccessTime="1498310676604"/>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/outArray.rb" timestamp="1498311003913" lastAccessTime="1498311004423"/>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/replaceArray.rb" timestamp="1498314103011" lastAccessTime="1498314103516"/>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array" timestamp="1498315883593" lastAccessTime="1498316239643">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3687312290/2649.idx"/>
+  </entries>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/SetArray.rb" timestamp="1498316199320" lastAccessTime="1498316199828"/>
 </cache:CacheIndex>

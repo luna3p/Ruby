@@ -1,0 +1,12 @@
+class SetArray
+  array1=%w(a b c d e f)
+  p array1
+  array2=%w(b d g a)
+  p array2
+  
+  unionarray=array1 | array2
+  intersectarray=array1 & array2
+  
+  p unionarray
+  p intersectarray
+  end

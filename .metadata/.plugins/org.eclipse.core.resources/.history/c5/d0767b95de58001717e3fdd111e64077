@@ -1,0 +1,4 @@
+class ChangeArray
+  color={"black"=>"#000000", "white"=>"#FFFFFF"}
+  p color.to_a
+end

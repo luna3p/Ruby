@@ -5244,3 +5244,199 @@ org.eclipse.dltk.core.ModelException: リンクされたリソース '/.org.ecli
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
 !SUBENTRY 1 org.eclipse.core.resources 4 77 2017-06-24 20:20:16.368
 !MESSAGE リンクされたリソース '/.org.eclipse.dltk.core.external.folders/.link5' を作成できません。 親リソースにアクセスできません。
+
+!ENTRY org.eclipse.dltk.core 4 4 2017-06-24 20:37:09.376
+!MESSAGE Problem creating hidden project for external folders
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: '.org.eclipse.dltk.core.external.folders' のプロジェクト記述ファイル (.project) がありません。 このファイルには、プロジェクトに関する重要な情報が含まれています。 このファイルが復元されるまで、プロジェクトは正しく機能しません。
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:907)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:904)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:774)
+	at org.eclipse.core.internal.resources.Project.open(Project.java:1041)
+	at org.eclipse.core.internal.resources.Project.open(Project.java:1087)
+	at org.eclipse.dltk.internal.core.ExternalFoldersManager.createExternalFoldersProject(ExternalFoldersManager.java:218)
+	at org.eclipse.dltk.internal.core.ExternalFoldersManager.createLinkFolder(ExternalFoldersManager.java:123)
+	at org.eclipse.dltk.internal.core.ExternalFolderChange.updateExternalFoldersIfNecessary(ExternalFolderChange.java:50)
+	at org.eclipse.dltk.internal.core.ChangeBuildpathOperation.buildpathChanged(ChangeBuildpathOperation.java:71)
+	at org.eclipse.dltk.internal.core.SetBuildpathOperation.executeOperation(SetBuildpathOperation.java:57)
+	at org.eclipse.dltk.internal.core.ModelOperation.run(ModelOperation.java:703)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.dltk.internal.core.ModelOperation.runOperation(ModelOperation.java:778)
+	at org.eclipse.dltk.internal.core.ScriptProject.setRawBuildpath(ScriptProject.java:1873)
+	at org.eclipse.dltk.internal.core.ScriptProject.setRawBuildpath(ScriptProject.java:1859)
+	at org.eclipse.dltk.ui.wizards.BuildpathsBlock.flush(BuildpathsBlock.java:750)
+	at org.eclipse.dltk.ui.wizards.BuildpathsBlock.configureScriptProject(BuildpathsBlock.java:627)
+	at org.eclipse.dltk.ui.wizards.CapabilityConfigurationPage.configureProject(CapabilityConfigurationPage.java:276)
+	at org.eclipse.dltk.ui.wizards.ProjectWizardSecondPage.configureProject(ProjectWizardSecondPage.java:171)
+	at org.eclipse.dltk.ui.wizards.CapabilityConfigurationPage.configureScriptProject(CapabilityConfigurationPage.java:255)
+	at org.eclipse.dltk.ui.wizards.ProjectWizardSecondPage$2.execute(ProjectWizardSecondPage.java:152)
+	at org.eclipse.dltk.ui.wizards.ProjectCreator.executeSteps(ProjectCreator.java:359)
+	at org.eclipse.dltk.ui.wizards.ProjectCreator.updateProject(ProjectCreator.java:488)
+	at org.eclipse.dltk.ui.wizards.ProjectCreator.performFinish(ProjectCreator.java:562)
+	at org.eclipse.dltk.ui.wizards.ProjectWizard.finishPage(ProjectWizard.java:61)
+	at org.eclipse.dltk.ui.wizards.NewElementWizard.lambda$1(NewElementWizard.java:106)
+	at org.eclipse.dltk.internal.core.BatchOperation.executeOperation(BatchOperation.java:37)
+	at org.eclipse.dltk.internal.core.ModelOperation.run(ModelOperation.java:703)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.dltk.core.DLTKCore.run(DLTKCore.java:1431)
+	at org.eclipse.dltk.internal.ui.actions.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:78)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2017-06-24 20:37:09.377
+!MESSAGE '.org.eclipse.dltk.core.external.folders' のプロジェクト記述ファイル (.project) がありません。 このファイルには、プロジェクトに関する重要な情報が含まれています。 このファイルが復元されるまで、プロジェクトは正しく機能しません。
+
+!ENTRY org.eclipse.dltk.ui 4 10001 2017-06-24 20:37:09.543
+!MESSAGE 内部エラー
+!STACK 1
+org.eclipse.dltk.core.ModelException: リンクされたリソース '/.org.eclipse.dltk.core.external.folders/.link5' を作成できません。 親リソースにアクセスできません。
+	at org.eclipse.dltk.core.ModelException.propagate(ModelException.java:119)
+	at org.eclipse.dltk.internal.core.ExternalFolderChange.updateExternalFoldersIfNecessary(ExternalFolderChange.java:53)
+	at org.eclipse.dltk.internal.core.ChangeBuildpathOperation.buildpathChanged(ChangeBuildpathOperation.java:71)
+	at org.eclipse.dltk.internal.core.SetBuildpathOperation.executeOperation(SetBuildpathOperation.java:57)
+	at org.eclipse.dltk.internal.core.ModelOperation.run(ModelOperation.java:703)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.dltk.internal.core.ModelOperation.runOperation(ModelOperation.java:778)
+	at org.eclipse.dltk.internal.core.ScriptProject.setRawBuildpath(ScriptProject.java:1873)
+	at org.eclipse.dltk.internal.core.ScriptProject.setRawBuildpath(ScriptProject.java:1859)
+	at org.eclipse.dltk.ui.wizards.BuildpathsBlock.flush(BuildpathsBlock.java:750)
+	at org.eclipse.dltk.ui.wizards.BuildpathsBlock.configureScriptProject(BuildpathsBlock.java:627)
+	at org.eclipse.dltk.ui.wizards.CapabilityConfigurationPage.configureProject(CapabilityConfigurationPage.java:276)
+	at org.eclipse.dltk.ui.wizards.ProjectWizardSecondPage.configureProject(ProjectWizardSecondPage.java:171)
+	at org.eclipse.dltk.ui.wizards.CapabilityConfigurationPage.configureScriptProject(CapabilityConfigurationPage.java:255)
+	at org.eclipse.dltk.ui.wizards.ProjectWizardSecondPage$2.execute(ProjectWizardSecondPage.java:152)
+	at org.eclipse.dltk.ui.wizards.ProjectCreator.executeSteps(ProjectCreator.java:359)
+	at org.eclipse.dltk.ui.wizards.ProjectCreator.updateProject(ProjectCreator.java:488)
+	at org.eclipse.dltk.ui.wizards.ProjectCreator.performFinish(ProjectCreator.java:562)
+	at org.eclipse.dltk.ui.wizards.ProjectWizard.finishPage(ProjectWizard.java:61)
+	at org.eclipse.dltk.ui.wizards.NewElementWizard.lambda$1(NewElementWizard.java:106)
+	at org.eclipse.dltk.internal.core.BatchOperation.executeOperation(BatchOperation.java:37)
+	at org.eclipse.dltk.internal.core.ModelOperation.run(ModelOperation.java:703)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.dltk.core.DLTKCore.run(DLTKCore.java:1431)
+	at org.eclipse.dltk.internal.ui.actions.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:78)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2017-06-24 20:37:09.544
+!MESSAGE リンクされたリソース '/.org.eclipse.dltk.core.external.folders/.link5' を作成できません。 親リソースにアクセスできません。
+
+!ENTRY org.eclipse.dltk.core 4 0 2017-06-24 22:59:23.308
+!MESSAGE Failed to append type name to field
+!STACK 1
+org.eclipse.dltk.core.ModelException: a [in replaceArray.rb [in <default> [in <project root> [in 09Array]]]] は存在しません
+	at org.eclipse.dltk.internal.core.ModelElement.newNotPresentException(ModelElement.java:275)
+	at org.eclipse.dltk.internal.core.ModelElement.openWhenClosed(ModelElement.java:210)
+	at org.eclipse.dltk.internal.core.ModelElement.getElementInfo(ModelElement.java:185)
+	at org.eclipse.dltk.internal.core.ModelElement.getElementInfo(ModelElement.java:167)
+	at org.eclipse.dltk.internal.core.SourceField.getType(SourceField.java:65)
+	at org.eclipse.dltk.ui.ScriptElementLabels.getFieldLabel(ScriptElementLabels.java:818)
+	at org.eclipse.dltk.ui.ScriptElementLabels.getElementLabel(ScriptElementLabels.java:570)
+	at org.eclipse.dltk.ruby.internal.ui.RubyUILanguageToolkit$1.getElementLabel(RubyUILanguageToolkit.java:37)
+	at org.eclipse.dltk.ui.ScriptElementLabels.getElementLabel(ScriptElementLabels.java:526)
+	at org.eclipse.dltk.ui.ScriptElementLabels$2.getElementLabel(ScriptElementLabels.java:386)
+	at org.eclipse.dltk.internal.ui.text.hover.DocumentationHover$ScriptDocumentationTitleAdapter.getTitle(DocumentationHover.java:594)
+	at org.eclipse.dltk.internal.ui.text.hover.DocumentationHover.getHoverInfo(DocumentationHover.java:461)
+	at org.eclipse.dltk.internal.ui.text.hover.AbstractScriptEditorTextHover.getHoverInfo(AbstractScriptEditorTextHover.java:181)
+	at org.eclipse.dltk.internal.ui.text.hover.AbstractScriptEditorTextHover.getHoverInfo(AbstractScriptEditorTextHover.java:135)
+	at org.eclipse.dltk.internal.ui.text.hover.BestMatchHover.getHoverInfo(BestMatchHover.java:109)
+	at org.eclipse.dltk.internal.ui.text.hover.EditorTextHoverProxy.getHoverInfo(EditorTextHoverProxy.java:71)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:167)
+!SUBENTRY 1 org.eclipse.dltk.core 4 969 2017-06-24 22:59:23.308
+!MESSAGE a [in replaceArray.rb [in <default> [in <project root> [in 09Array]]]] は存在しません
+
+!ENTRY org.eclipse.dltk.core 4 0 2017-06-24 23:03:13.290
+!MESSAGE Failed to append type name to field
+!STACK 1
+org.eclipse.dltk.core.ModelException: a [in replaceArray.rb [in <default> [in <project root> [in 09Array]]]] は存在しません
+	at org.eclipse.dltk.internal.core.ModelElement.newNotPresentException(ModelElement.java:275)
+	at org.eclipse.dltk.internal.core.ModelElement.openWhenClosed(ModelElement.java:210)
+	at org.eclipse.dltk.internal.core.ModelElement.getElementInfo(ModelElement.java:185)
+	at org.eclipse.dltk.internal.core.ModelElement.getElementInfo(ModelElement.java:167)
+	at org.eclipse.dltk.internal.core.SourceField.getType(SourceField.java:65)
+	at org.eclipse.dltk.ui.ScriptElementLabels.getFieldLabel(ScriptElementLabels.java:818)
+	at org.eclipse.dltk.ui.ScriptElementLabels.getElementLabel(ScriptElementLabels.java:570)
+	at org.eclipse.dltk.ruby.internal.ui.RubyUILanguageToolkit$1.getElementLabel(RubyUILanguageToolkit.java:37)
+	at org.eclipse.dltk.ui.ScriptElementLabels.getElementLabel(ScriptElementLabels.java:526)
+	at org.eclipse.dltk.ui.ScriptElementLabels$2.getElementLabel(ScriptElementLabels.java:386)
+	at org.eclipse.dltk.internal.ui.text.hover.DocumentationHover$ScriptDocumentationTitleAdapter.getTitle(DocumentationHover.java:594)
+	at org.eclipse.dltk.internal.ui.text.hover.DocumentationHover.getHoverInfo(DocumentationHover.java:461)
+	at org.eclipse.dltk.internal.ui.text.hover.AbstractScriptEditorTextHover.getHoverInfo(AbstractScriptEditorTextHover.java:181)
+	at org.eclipse.dltk.internal.ui.text.hover.AbstractScriptEditorTextHover.getHoverInfo(AbstractScriptEditorTextHover.java:135)
+	at org.eclipse.dltk.internal.ui.text.hover.BestMatchHover.getHoverInfo(BestMatchHover.java:109)
+	at org.eclipse.dltk.internal.ui.text.hover.EditorTextHoverProxy.getHoverInfo(EditorTextHoverProxy.java:71)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:167)
+!SUBENTRY 1 org.eclipse.dltk.core 4 969 2017-06-24 23:03:13.291
+!MESSAGE a [in replaceArray.rb [in <default> [in <project root> [in 09Array]]]] は存在しません
+
+!ENTRY org.eclipse.dltk.core 4 0 2017-06-24 23:21:50.636
+!MESSAGE Failed to append type name to field
+!STACK 1
+org.eclipse.dltk.core.ModelException: intersectarray [in SetArray.rb [in <default> [in <project root> [in 09Array]]]] は存在しません
+	at org.eclipse.dltk.internal.core.ModelElement.newNotPresentException(ModelElement.java:275)
+	at org.eclipse.dltk.internal.core.ModelElement.openWhenClosed(ModelElement.java:210)
+	at org.eclipse.dltk.internal.core.ModelElement.getElementInfo(ModelElement.java:185)
+	at org.eclipse.dltk.internal.core.ModelElement.getElementInfo(ModelElement.java:167)
+	at org.eclipse.dltk.internal.core.SourceField.getType(SourceField.java:65)
+	at org.eclipse.dltk.ui.ScriptElementLabels.getFieldLabel(ScriptElementLabels.java:818)
+	at org.eclipse.dltk.ui.ScriptElementLabels.getElementLabel(ScriptElementLabels.java:570)
+	at org.eclipse.dltk.ruby.internal.ui.RubyUILanguageToolkit$1.getElementLabel(RubyUILanguageToolkit.java:37)
+	at org.eclipse.dltk.ui.ScriptElementLabels.getElementLabel(ScriptElementLabels.java:526)
+	at org.eclipse.dltk.ui.ScriptElementLabels$2.getElementLabel(ScriptElementLabels.java:386)
+	at org.eclipse.dltk.internal.ui.text.hover.DocumentationHover$ScriptDocumentationTitleAdapter.getTitle(DocumentationHover.java:594)
+	at org.eclipse.dltk.internal.ui.text.hover.DocumentationHover.getHoverInfo(DocumentationHover.java:461)
+	at org.eclipse.dltk.internal.ui.text.hover.AbstractScriptEditorTextHover.getHoverInfo(AbstractScriptEditorTextHover.java:181)
+	at org.eclipse.dltk.internal.ui.text.hover.AbstractScriptEditorTextHover.getHoverInfo(AbstractScriptEditorTextHover.java:135)
+	at org.eclipse.dltk.internal.ui.text.hover.BestMatchHover.getHoverInfo(BestMatchHover.java:109)
+	at org.eclipse.dltk.internal.ui.text.hover.EditorTextHoverProxy.getHoverInfo(EditorTextHoverProxy.java:71)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:167)
+!SUBENTRY 1 org.eclipse.dltk.core 4 969 2017-06-24 23:21:50.636
+!MESSAGE intersectarray [in SetArray.rb [in <default> [in <project root> [in 09Array]]]] は存在しません
+
+!ENTRY org.eclipse.dltk.core 4 0 2017-06-24 23:22:24.682
+!MESSAGE Failed to append type name to field
+!STACK 1
+org.eclipse.dltk.core.ModelException: intersectarray1 [in SetArray.rb [in <default> [in <project root> [in 09Array]]]] は存在しません
+	at org.eclipse.dltk.internal.core.ModelElement.newNotPresentException(ModelElement.java:275)
+	at org.eclipse.dltk.internal.core.ModelElement.openWhenClosed(ModelElement.java:210)
+	at org.eclipse.dltk.internal.core.ModelElement.getElementInfo(ModelElement.java:185)
+	at org.eclipse.dltk.internal.core.ModelElement.getElementInfo(ModelElement.java:167)
+	at org.eclipse.dltk.internal.core.SourceField.getType(SourceField.java:65)
+	at org.eclipse.dltk.ui.ScriptElementLabels.getFieldLabel(ScriptElementLabels.java:818)
+	at org.eclipse.dltk.ui.ScriptElementLabels.getElementLabel(ScriptElementLabels.java:570)
+	at org.eclipse.dltk.ruby.internal.ui.RubyUILanguageToolkit$1.getElementLabel(RubyUILanguageToolkit.java:37)
+	at org.eclipse.dltk.ui.ScriptElementLabels.getElementLabel(ScriptElementLabels.java:526)
+	at org.eclipse.dltk.ui.ScriptElementLabels$2.getElementLabel(ScriptElementLabels.java:386)
+	at org.eclipse.dltk.internal.ui.text.hover.DocumentationHover$ScriptDocumentationTitleAdapter.getTitle(DocumentationHover.java:594)
+	at org.eclipse.dltk.internal.ui.text.hover.DocumentationHover.getHoverInfo(DocumentationHover.java:461)
+	at org.eclipse.dltk.internal.ui.text.hover.AbstractScriptEditorTextHover.getHoverInfo(AbstractScriptEditorTextHover.java:181)
+	at org.eclipse.dltk.internal.ui.text.hover.AbstractScriptEditorTextHover.getHoverInfo(AbstractScriptEditorTextHover.java:135)
+	at org.eclipse.dltk.internal.ui.text.hover.BestMatchHover.getHoverInfo(BestMatchHover.java:109)
+	at org.eclipse.dltk.internal.ui.text.hover.EditorTextHoverProxy.getHoverInfo(EditorTextHoverProxy.java:71)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:167)
+!SUBENTRY 1 org.eclipse.dltk.core 4 969 2017-06-24 23:22:24.683
+!MESSAGE intersectarray1 [in SetArray.rb [in <default> [in <project root> [in 09Array]]]] は存在しません
+
+!ENTRY org.eclipse.dltk.core 4 0 2017-06-24 23:51:14.198
+!MESSAGE Failed to append type name to field
+!STACK 1
+org.eclipse.dltk.core.ModelException: intersectarray2 [in SetArray.rb [in <default> [in <project root> [in 09Array]]]] は存在しません
+	at org.eclipse.dltk.internal.core.ModelElement.newNotPresentException(ModelElement.java:275)
+	at org.eclipse.dltk.internal.core.ModelElement.openWhenClosed(ModelElement.java:210)
+	at org.eclipse.dltk.internal.core.ModelElement.getElementInfo(ModelElement.java:185)
+	at org.eclipse.dltk.internal.core.ModelElement.getElementInfo(ModelElement.java:167)
+	at org.eclipse.dltk.internal.core.SourceField.getType(SourceField.java:65)
+	at org.eclipse.dltk.ui.ScriptElementLabels.getFieldLabel(ScriptElementLabels.java:818)
+	at org.eclipse.dltk.ui.ScriptElementLabels.getElementLabel(ScriptElementLabels.java:570)
+	at org.eclipse.dltk.ruby.internal.ui.RubyUILanguageToolkit$1.getElementLabel(RubyUILanguageToolkit.java:37)
+	at org.eclipse.dltk.ui.ScriptElementLabels.getElementLabel(ScriptElementLabels.java:526)
+	at org.eclipse.dltk.ui.ScriptElementLabels$2.getElementLabel(ScriptElementLabels.java:386)
+	at org.eclipse.dltk.internal.ui.text.hover.DocumentationHover$ScriptDocumentationTitleAdapter.getTitle(DocumentationHover.java:594)
+	at org.eclipse.dltk.internal.ui.text.hover.DocumentationHover.getHoverInfo(DocumentationHover.java:461)
+	at org.eclipse.dltk.internal.ui.text.hover.AbstractScriptEditorTextHover.getHoverInfo(AbstractScriptEditorTextHover.java:181)
+	at org.eclipse.dltk.internal.ui.text.hover.AbstractScriptEditorTextHover.getHoverInfo(AbstractScriptEditorTextHover.java:135)
+	at org.eclipse.dltk.internal.ui.text.hover.BestMatchHover.getHoverInfo(BestMatchHover.java:109)
+	at org.eclipse.dltk.internal.ui.text.hover.EditorTextHoverProxy.getHoverInfo(EditorTextHoverProxy.java:71)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:167)
+!SUBENTRY 1 org.eclipse.dltk.core 4 969 2017-06-24 23:51:14.198
+!MESSAGE intersectarray2 [in SetArray.rb [in <default> [in <project root> [in 09Array]]]] は存在しません

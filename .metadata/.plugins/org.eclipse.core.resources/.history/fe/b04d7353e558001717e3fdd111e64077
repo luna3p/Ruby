@@ -1,0 +1,11 @@
+class ReplaceArray
+  a=%w(a b c d e f g)
+  p a
+  a=c
+  c[2]="C"
+  c[3]="D"
+  p c
+  
+  a[4..5]=["E","F"]
+  p a
+end

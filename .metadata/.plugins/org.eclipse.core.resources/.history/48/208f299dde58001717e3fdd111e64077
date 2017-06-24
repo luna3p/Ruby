@@ -1,0 +1,5 @@
+class Split
+  
+  str="2006/07/10 22:33 asa hiru yoru"
+  p str.sprit(" "||"/")
+end

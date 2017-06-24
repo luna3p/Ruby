@@ -1,0 +1,6 @@
+class ArrayW
+  lang=%w(Ruby Perl Pyson JAVA C)
+  p lang
+  iroha=%w(い ろ は に ほ へ と)
+  p iroha
+end
