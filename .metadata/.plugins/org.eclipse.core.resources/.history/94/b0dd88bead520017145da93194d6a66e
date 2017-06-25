@@ -1,7 +1,0 @@
-class Array
-  s=[]
-  s=["a","b","c"]
-  puts a[0] #=>a
-  puts a[1] #=>b
-  puts a[2] #=>c
-end

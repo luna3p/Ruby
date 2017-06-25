@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename source module &apos;AddArrayElement.rb&apos; to &apos;AddRemoveArrayElement.rb&apos;&#x0D;&#x0A;- オリジナル要素: &apos;(default package)::AddArrayElement.rb&apos;&#x0D;&#x0A;- 名前変更済み要素: &apos;(default package)::AddRemoveArrayElement.rb&apos;" description="Rename source module &apos;AddArrayElement.rb&apos;" flags="589830" id="org.eclipse.dltk.ui.rename.sourcemodule" input="/&lt;{AddArrayElement.rb" name="AddRemoveArrayElement.rb" stamp="1498323343081" version="1.0"/>
+</session>

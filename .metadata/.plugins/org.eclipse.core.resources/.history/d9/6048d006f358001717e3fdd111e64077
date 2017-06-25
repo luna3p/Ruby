@@ -1,0 +1,10 @@
+class OperateArray
+  str=%w(b c d e f g)
+  
+  p str.unshift("a")
+  p str.push("h")
+  
+  p str.shift("a")
+  p str.pop("h")
+  
+end

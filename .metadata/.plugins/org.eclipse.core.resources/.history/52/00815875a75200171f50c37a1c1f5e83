@@ -1,4 +1,0 @@
-class Hellotest
-  require './04メソッド/Hello'
-  hello();
-end

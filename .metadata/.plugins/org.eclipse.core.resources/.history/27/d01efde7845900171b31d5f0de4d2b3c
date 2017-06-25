@@ -1,0 +1,11 @@
+class AddRemoveArreyElement_1
+  a=[0,nil,5,nil,5,8,nil,nil,3]
+  p a
+  b=a.compact
+  p b
+  p a.compact
+  p a
+  c=a.compact!
+  p c
+  p a
+end

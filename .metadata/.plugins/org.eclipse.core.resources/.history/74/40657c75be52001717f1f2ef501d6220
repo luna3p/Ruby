@@ -1,6 +1,0 @@
-class Hash
-  hash_table={"zero"=>"abc","one"=>1,"two"=>2}
-  puts hash_table["zero"] #=>0
-  puts hash_table["one"]  #=>1
-  puts hash_table["two"]  #=>2
-  end

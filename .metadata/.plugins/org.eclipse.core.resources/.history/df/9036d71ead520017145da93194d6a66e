@@ -1,5 +1,0 @@
-#同ディレクトリ内の別ファイルのメソッドを扱う
-class Hellotest
-  require './04メソッド/Hello'#インタープリターライブラリがRubylearnフォルダにあるため
-  hello();
-end

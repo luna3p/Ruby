@@ -10,7 +10,7 @@
 </mappings>
 </org.eclipse.team.ui.MODEL_PARTICIPANT_MAPPINGS>
 </org.eclipse.team.ui.MODEL_PARTICIPANT_SETTINGS>
-<gitSynchronizeData container="C:/pleiades/workspace_Ruby/Ruby/00others" dstRev="refs/remotes/origin/master" inludeLocal="true" srcRev="HEAD"/>
+<gitSynchronizeData container="C:/pleiades/workspace_Ruby/Ruby/09Array" dstRev="refs/remotes/origin/master" inludeLocal="true" srcRev="HEAD"/>
 </data>
 </participant>
 </syncparticipants>
