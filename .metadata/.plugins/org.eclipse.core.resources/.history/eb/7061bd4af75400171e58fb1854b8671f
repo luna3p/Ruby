@@ -1,8 +1,0 @@
-class File_read
-  filename = ARGV[0]
-  file = open(filename)
-  text = file.read
-  puts text
-  text=0
-  file.close
-end

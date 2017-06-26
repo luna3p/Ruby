@@ -1,6 +1,0 @@
-class Getline_text
-  filename=ARGV[0]
-  file=open(filename,"r") do |f|
-  print f.read
-  end
-end

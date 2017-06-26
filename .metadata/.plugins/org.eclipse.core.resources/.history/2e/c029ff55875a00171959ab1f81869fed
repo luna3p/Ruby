@@ -1,0 +1,8 @@
+class HearDocument
+  str=""
+  str=<<EOS
+1行目
+2行目
+  EOS
+  print str
+end

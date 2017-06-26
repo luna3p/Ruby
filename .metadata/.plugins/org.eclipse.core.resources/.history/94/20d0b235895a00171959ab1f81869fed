@@ -1,0 +1,6 @@
+class String
+  s1="\naiueo"
+  s2='\naiueo'
+  puts s1
+  puts s2
+end

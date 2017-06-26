@@ -1,0 +1,6 @@
+class String
+  s1="aiueo"
+  s2='aiueo'
+  print s1
+  print s2
+end

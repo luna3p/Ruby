@@ -1,9 +1,0 @@
-class File_R_L
-  file=open(ARGV[0],"r+") do |f|
-    f.puts "abcdefg","abc"
-      p file
-  end
-  file=open(AGRV[0],"r") do |f|
-    p f.read
-  end
-end

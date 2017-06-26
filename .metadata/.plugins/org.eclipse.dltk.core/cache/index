@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ASCII"?>
-<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="2754" environment="org.eclipse.dltk.core.environment.localEnvironment">
+<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="2810" environment="org.eclipse.dltk.core.environment.localEnvironment">
   <entries path="C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/lib/did_you_mean/core_ext/name_error.rb" timestamp="1495709838000" lastAccessTime="1498212620352">
     <attributes name="indexed" location="2838196607/889395578/285.idx"/>
   </entries>
@@ -3321,15 +3321,15 @@
   </entries>
   <entries path="C:/pleiades/workspace_Ruby/Ruby/05&#x914d;&#x5217;&#x30cf;&#x30c3;&#x30b7;&#x30e5;&#x6b63;&#x898f;&#x8868;&#x73fe;/.project" timestamp="1497870635923" lastAccessTime="1498378174477"/>
   <entries path="C:/pleiades/workspace_Ruby/Ruby/05&#x914d;&#x5217;&#x30cf;&#x30c3;&#x30b7;&#x30e5;&#x6b63;&#x898f;&#x8868;&#x73fe;/.settings" timestamp="1497631544547" lastAccessTime="1498378174477"/>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/05&#x914d;&#x5217;&#x30cf;&#x30c3;&#x30b7;&#x30e5;&#x6b63;&#x898f;&#x8868;&#x73fe;/Hash.rb" timestamp="1497870201886" lastAccessTime="1498378174612">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/05&#x914d;&#x5217;&#x30cf;&#x30c3;&#x30b7;&#x30e5;&#x6b63;&#x898f;&#x8868;&#x73fe;/Hash.rb" timestamp="1497870201886" lastAccessTime="1498484493748">
     <attributes name="indexed" location="2838196607/1746969664/2393.idx"/>
   </entries>
   <entries path="C:/pleiades/workspace_Ruby/Ruby/06&#x30b3;&#x30de;&#x30f3;&#x30c9;/.project" timestamp="1497872131760" lastAccessTime="1498212607917"/>
   <entries path="C:/pleiades/workspace_Ruby/Ruby/06&#x30b3;&#x30de;&#x30f3;&#x30c9;/.settings" timestamp="1497872131992" lastAccessTime="1498212607917"/>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/06&#x30b3;&#x30de;&#x30f3;&#x30c9;/file_R_L.rb" timestamp="1497895049821" lastAccessTime="1498378174986">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/06&#x30b3;&#x30de;&#x30f3;&#x30c9;/file_R_L.rb" timestamp="1497895049821" lastAccessTime="1498484494454">
     <attributes name="indexed" location="2838196607/153027944/2403.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/06&#x30b3;&#x30de;&#x30f3;&#x30c9;/file_write.rb" timestamp="1497881866637" lastAccessTime="1498378174975">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/06&#x30b3;&#x30de;&#x30f3;&#x30c9;/file_write.rb" timestamp="1497881866637" lastAccessTime="1498484494445">
     <attributes name="indexed" location="2838196607/153027944/2407.idx"/>
   </entries>
   <entries path="C:/pleiades/workspace_Ruby/Ruby/06&#x30b3;&#x30de;&#x30f3;&#x30c9;/text1.txt" timestamp="1497880713474" lastAccessTime="1498212607918"/>
@@ -3337,25 +3337,25 @@
   <entries path="C:/pleiades/workspace_Ruby/Ruby/06&#x30b3;&#x30de;&#x30f3;&#x30c9;/text3.txt" timestamp="1497882964693" lastAccessTime="1498212607918"/>
   <entries path="C:/pleiades/workspace_Ruby/Ruby/06&#x30b3;&#x30de;&#x30f3;&#x30c9;/text4.txt" timestamp="1497886465465" lastAccessTime="1498212607918"/>
   <entries path="C:/pleiades/workspace_Ruby/Ruby/06&#x30b3;&#x30de;&#x30f3;&#x30c9;/text5.txt" timestamp="1497895364994" lastAccessTime="1498212607918"/>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x6761;&#x4ef6;&#x5206;&#x5c90;/empty_TF.rb" timestamp="1497940651705" lastAccessTime="1498484491353">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x6761;&#x4ef6;&#x5206;&#x5c90;/empty_TF.rb" timestamp="1497940651705" lastAccessTime="1498484492666">
     <attributes name="indexed" location="2838196607/1127057504/2433.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x6761;&#x4ef6;&#x5206;&#x5c90;/IfTthen.rb" timestamp="1497597547595" lastAccessTime="1498484491353">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x6761;&#x4ef6;&#x5206;&#x5c90;/IfTthen.rb" timestamp="1497597547595" lastAccessTime="1498484492650">
     <attributes name="indexed" location="2838196607/1127057504/2439.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x6761;&#x4ef6;&#x5206;&#x5c90;/unless.rb" timestamp="1497967662204" lastAccessTime="1498484491537">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x6761;&#x4ef6;&#x5206;&#x5c90;/unless.rb" timestamp="1497967662204" lastAccessTime="1498484492652">
     <attributes name="indexed" location="2838196607/1127057504/2429.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/06&#x30b3;&#x30de;&#x30f3;&#x30c9;/getline_text.rb" timestamp="1497894798691" lastAccessTime="1498378174977">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/06&#x30b3;&#x30de;&#x30f3;&#x30c9;/getline_text.rb" timestamp="1497894798691" lastAccessTime="1498484494447">
     <attributes name="indexed" location="2838196607/153027944/2441.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/06&#x30b3;&#x30de;&#x30f3;&#x30c9;/file_read.rb" timestamp="1497880722038" lastAccessTime="1498378174982">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/06&#x30b3;&#x30de;&#x30f3;&#x30c9;/file_read.rb" timestamp="1497880722038" lastAccessTime="1498484494450">
     <attributes name="indexed" location="2838196607/153027944/2443.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/06&#x30b3;&#x30de;&#x30f3;&#x30c9;/printArgv.rb" timestamp="1497877268450" lastAccessTime="1498378174985">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/06&#x30b3;&#x30de;&#x30f3;&#x30c9;/printArgv.rb" timestamp="1497877268450" lastAccessTime="1498484494452">
     <attributes name="indexed" location="2838196607/153027944/2447.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x6761;&#x4ef6;&#x5206;&#x5c90;" timestamp="1498028404906" lastAccessTime="1498212605751">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x6761;&#x4ef6;&#x5206;&#x5c90;" timestamp="1498028404906" lastAccessTime="1498484492245">
     <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/2909108335/2449.idx"/>
   </entries>
   <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x7e70;&#x308a;&#x8fd4;&#x3057;" timestamp="1498100461842" lastAccessTime="1498378174156">
@@ -3370,22 +3370,22 @@
   <entries path="C:/pleiades/workspace_Ruby/Ruby/02&#x5909;&#x6570;&#x3068;&#x6587;&#x5b57;&#x8868;&#x793a;/mojihyogen.rb" timestamp="1497591365706" lastAccessTime="1498484490484">
     <attributes name="indexed" location="2838196607/2788400246/2473.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x7e70;&#x308a;&#x8fd4;&#x3057;/Each.rb" timestamp="1498031515364" lastAccessTime="1498484490897">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x7e70;&#x308a;&#x8fd4;&#x3057;/Each.rb" timestamp="1498031515364" lastAccessTime="1498484492644">
     <attributes name="indexed" location="2838196607/649154081/2483.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x7e70;&#x308a;&#x8fd4;&#x3057;/For.rb" timestamp="1498029906862" lastAccessTime="1498378174284">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x7e70;&#x308a;&#x8fd4;&#x3057;/For.rb" timestamp="1498029906862" lastAccessTime="1498484492641">
     <attributes name="indexed" location="2838196607/649154081/2491.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x7e70;&#x308a;&#x8fd4;&#x3057;/For_array.rb" timestamp="1498029956343" lastAccessTime="1498378174322">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x7e70;&#x308a;&#x8fd4;&#x3057;/For_array.rb" timestamp="1498029956343" lastAccessTime="1498484492660">
     <attributes name="indexed" location="2838196607/649154081/2499.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x7e70;&#x308a;&#x8fd4;&#x3057;/While.rb" timestamp="1497602576396" lastAccessTime="1498484490752">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x7e70;&#x308a;&#x8fd4;&#x3057;/While.rb" timestamp="1497602576396" lastAccessTime="1498484492664">
     <attributes name="indexed" location="2838196607/649154081/2481.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x6761;&#x4ef6;&#x5206;&#x5c90;/casemathod.rb" timestamp="1498003655758" lastAccessTime="1498484491353">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x6761;&#x4ef6;&#x5206;&#x5c90;/casemathod.rb" timestamp="1498003655758" lastAccessTime="1498484492658">
     <attributes name="indexed" location="2838196607/1127057504/2485.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x6761;&#x4ef6;&#x5206;&#x5c90;/qost_If_Unless.rb" timestamp="1498028740919" lastAccessTime="1498484491474">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x6761;&#x4ef6;&#x5206;&#x5c90;/qost_If_Unless.rb" timestamp="1498028740919" lastAccessTime="1498484492635">
     <attributes name="indexed" location="2838196607/1127057504/2505.idx"/>
   </entries>
   <entries path="C:/pleiades/workspace_Ruby/Ruby/04&#x30e1;&#x30bd;&#x30c3;&#x30c9;" timestamp="1498131868122" lastAccessTime="1498378174368">
@@ -3394,49 +3394,49 @@
   <entries path="C:/pleiades/workspace_Ruby/Ruby/02&#x5909;&#x6570;&#x3068;&#x6587;&#x5b57;&#x8868;&#x793a;/getinput.rb" timestamp="1498060148596" lastAccessTime="1498484490482">
     <attributes name="indexed" location="2838196607/2788400246/2537.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x7e70;&#x308a;&#x8fd4;&#x3057;/loop.rb" timestamp="1498061009276" lastAccessTime="1498484491090">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x7e70;&#x308a;&#x8fd4;&#x3057;/loop.rb" timestamp="1498061009276" lastAccessTime="1498484492655">
     <attributes name="indexed" location="2838196607/649154081/2541.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x7e70;&#x308a;&#x8fd4;&#x3057;/next_redo_break.rb" timestamp="1498098120516" lastAccessTime="1498378174309">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x7e70;&#x308a;&#x8fd4;&#x3057;/next_redo_break.rb" timestamp="1498098120516" lastAccessTime="1498484492654">
     <attributes name="indexed" location="2838196607/649154081/2545.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x7e70;&#x308a;&#x8fd4;&#x3057;/next_redo_break_1.rb" timestamp="1498122577195" lastAccessTime="1498378174274">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x7e70;&#x308a;&#x8fd4;&#x3057;/next_redo_break_1.rb" timestamp="1498122577195" lastAccessTime="1498484492636">
     <attributes name="indexed" location="2838196607/649154081/2555.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x7e70;&#x308a;&#x8fd4;&#x3057;/redo.rb" timestamp="1498097909867" lastAccessTime="1498378174299">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x7e70;&#x308a;&#x8fd4;&#x3057;/redo.rb" timestamp="1498097909867" lastAccessTime="1498484492648">
     <attributes name="indexed" location="2838196607/649154081/2551.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x7e70;&#x308a;&#x8fd4;&#x3057;/Times_1.rb" timestamp="1498029193265" lastAccessTime="1498378174269">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x7e70;&#x308a;&#x8fd4;&#x3057;/Times_1.rb" timestamp="1498029193265" lastAccessTime="1498484492632">
     <attributes name="indexed" location="2838196607/649154081/2549.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x7e70;&#x308a;&#x8fd4;&#x3057;/Until.rb" timestamp="1498030745513" lastAccessTime="1498378174276">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x7e70;&#x308a;&#x8fd4;&#x3057;/Until.rb" timestamp="1498030745513" lastAccessTime="1498484492638">
     <attributes name="indexed" location="2838196607/649154081/2547.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x6761;&#x4ef6;&#x5206;&#x5c90;/Odd_Num.rb" timestamp="1497965188935" lastAccessTime="1498484491474">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x6761;&#x4ef6;&#x5206;&#x5c90;/Odd_Num.rb" timestamp="1497965188935" lastAccessTime="1498484492643">
     <attributes name="indexed" location="2838196607/1127057504/2553.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/04&#x30e1;&#x30bd;&#x30c3;&#x30c9;/Hello_with_name.rb" timestamp="1498127332992" lastAccessTime="1498378174437">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/04&#x30e1;&#x30bd;&#x30c3;&#x30c9;/Hello_with_name.rb" timestamp="1498127332992" lastAccessTime="1498484493185">
     <attributes name="indexed" location="2838196607/4117048165/2557.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/04&#x30e1;&#x30bd;&#x30c3;&#x30c9;/call_Hello_with_name.rb" timestamp="1498127424661" lastAccessTime="1498378174435">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/04&#x30e1;&#x30bd;&#x30c3;&#x30c9;/call_Hello_with_name.rb" timestamp="1498127424661" lastAccessTime="1498484493183">
     <attributes name="indexed" location="2838196607/4117048165/2561.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/04&#x30e1;&#x30bd;&#x30c3;&#x30c9;/Hello.rb" timestamp="1497606443057" lastAccessTime="1498378174430">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/04&#x30e1;&#x30bd;&#x30c3;&#x30c9;/Hello.rb" timestamp="1497606443057" lastAccessTime="1498484493179">
     <attributes name="indexed" location="2838196607/4117048165/2559.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/04&#x30e1;&#x30bd;&#x30c3;&#x30c9;/Hellotest.rb" timestamp="1498125181121" lastAccessTime="1498378174439">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/04&#x30e1;&#x30bd;&#x30c3;&#x30c9;/Hellotest.rb" timestamp="1498125181121" lastAccessTime="1498484493186">
     <attributes name="indexed" location="2838196607/4117048165/2567.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/05&#x914d;&#x5217;&#x30cf;&#x30c3;&#x30b7;&#x30e5;&#x6b63;&#x898f;&#x8868;&#x73fe;/ArrayEach.rb" timestamp="1497631539271" lastAccessTime="1498378174617">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/05&#x914d;&#x5217;&#x30cf;&#x30c3;&#x30b7;&#x30e5;&#x6b63;&#x898f;&#x8868;&#x73fe;/ArrayEach.rb" timestamp="1497631539271" lastAccessTime="1498484493752">
     <attributes name="indexed" location="2838196607/1746969664/2577.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/05&#x914d;&#x5217;&#x30cf;&#x30c3;&#x30b7;&#x30e5;&#x6b63;&#x898f;&#x8868;&#x73fe;/arraysize.rb" timestamp="1497630489869" lastAccessTime="1498378174608">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/05&#x914d;&#x5217;&#x30cf;&#x30c3;&#x30b7;&#x30e5;&#x6b63;&#x898f;&#x8868;&#x73fe;/arraysize.rb" timestamp="1497630489869" lastAccessTime="1498484493745">
     <attributes name="indexed" location="2838196607/1746969664/2573.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/05&#x914d;&#x5217;&#x30cf;&#x30c3;&#x30b7;&#x30e5;&#x6b63;&#x898f;&#x8868;&#x73fe;/seiki.rb" timestamp="1497872127952" lastAccessTime="1498378174615">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/05&#x914d;&#x5217;&#x30cf;&#x30c3;&#x30b7;&#x30e5;&#x6b63;&#x898f;&#x8868;&#x73fe;/seiki.rb" timestamp="1497872127952" lastAccessTime="1498484493750">
     <attributes name="indexed" location="2838196607/1746969664/2575.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/06&#x30b3;&#x30de;&#x30f3;&#x30c9;/file_pattern.rb" timestamp="1497896622910" lastAccessTime="1498378174978">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/06&#x30b3;&#x30de;&#x30f3;&#x30c9;/file_pattern.rb" timestamp="1497896622910" lastAccessTime="1498484494449">
     <attributes name="indexed" location="2838196607/153027944/2579.idx"/>
   </entries>
   <entries path="C:/pleiades/workspace_Ruby/Ruby/07&#x30af;&#x30e9;&#x30b9;/.project" timestamp="1498195762471" lastAccessTime="1498212608020"/>
@@ -3460,95 +3460,155 @@
   <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric" timestamp="1498303389987" lastAccessTime="1498378175577">
     <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3687312290/2631.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x7e70;&#x308a;&#x8fd4;&#x3057;/Times.rb" timestamp="1497602576379" lastAccessTime="1498484490749">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x7e70;&#x308a;&#x8fd4;&#x3057;/Times.rb" timestamp="1497602576379" lastAccessTime="1498484492647">
     <attributes name="indexed" location="2838196607/649154081/2659.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/04&#x30e1;&#x30bd;&#x30c3;&#x30c9;/Three_mul_test.rb" timestamp="1498132054910" lastAccessTime="1498378174441">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/04&#x30e1;&#x30bd;&#x30c3;&#x30c9;/Three_mul_test.rb" timestamp="1498132054910" lastAccessTime="1498484493188">
     <attributes name="indexed" location="2838196607/4117048165/2661.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/04&#x30e1;&#x30bd;&#x30c3;&#x30c9;/Three_mul.rb" timestamp="1498132036608" lastAccessTime="1498378174433">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/04&#x30e1;&#x30bd;&#x30c3;&#x30c9;/Three_mul.rb" timestamp="1498132036608" lastAccessTime="1498484493181">
     <attributes name="indexed" location="2838196607/4117048165/2663.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/05&#x914d;&#x5217;&#x30cf;&#x30c3;&#x30b7;&#x30e5;&#x6b63;&#x898f;&#x8868;&#x73fe;/HashEach.rb" timestamp="1497870627901" lastAccessTime="1498378174619">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/05&#x914d;&#x5217;&#x30cf;&#x30c3;&#x30b7;&#x30e5;&#x6b63;&#x898f;&#x8868;&#x73fe;/HashEach.rb" timestamp="1497870627901" lastAccessTime="1498484493754">
     <attributes name="indexed" location="2838196607/1746969664/2665.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/05&#x914d;&#x5217;&#x30cf;&#x30c3;&#x30b7;&#x30e5;&#x6b63;&#x898f;&#x8868;&#x73fe;/array.rb" timestamp="1497629399262" lastAccessTime="1498378174610">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/05&#x914d;&#x5217;&#x30cf;&#x30c3;&#x30b7;&#x30e5;&#x6b63;&#x898f;&#x8868;&#x73fe;/array.rb" timestamp="1497629399262" lastAccessTime="1498484493747">
     <attributes name="indexed" location="2838196607/1746969664/2667.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/07&#x30af;&#x30e9;&#x30b9;&#x30e2;&#x30b8;&#x30e5;&#x30fc;&#x30eb;/callclassrestrict_1.rb" timestamp="1498219803243" lastAccessTime="1498378175435">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/07&#x30af;&#x30e9;&#x30b9;&#x30e2;&#x30b8;&#x30e5;&#x30fc;&#x30eb;/callclassrestrict_1.rb" timestamp="1498219803243" lastAccessTime="1498484495433">
     <attributes name="indexed" location="2838196607/1060010728/2669.idx"/>
   </entries>
   <entries path="C:/pleiades/workspace_Ruby/Ruby/07&#x30af;&#x30e9;&#x30b9;&#x30e2;&#x30b8;&#x30e5;&#x30fc;&#x30eb;/.project" timestamp="1498226949887" lastAccessTime="1498378175044"/>
   <entries path="C:/pleiades/workspace_Ruby/Ruby/07&#x30af;&#x30e9;&#x30b9;&#x30e2;&#x30b8;&#x30e5;&#x30fc;&#x30eb;/.settings" timestamp="1498226951599" lastAccessTime="1498378175044"/>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/07&#x30af;&#x30e9;&#x30b9;&#x30e2;&#x30b8;&#x30e5;&#x30fc;&#x30eb;/callclassrestrict.rb" timestamp="1498217428055" lastAccessTime="1498378175427">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/07&#x30af;&#x30e9;&#x30b9;&#x30e2;&#x30b8;&#x30e5;&#x30fc;&#x30eb;/callclassrestrict.rb" timestamp="1498217428055" lastAccessTime="1498484495428">
     <attributes name="indexed" location="2838196607/1060010728/2681.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/07&#x30af;&#x30e9;&#x30b9;&#x30e2;&#x30b8;&#x30e5;&#x30fc;&#x30eb;/downcase.rb" timestamp="1498226105399" lastAccessTime="1498378175431">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/07&#x30af;&#x30e9;&#x30b9;&#x30e2;&#x30b8;&#x30e5;&#x30fc;&#x30eb;/downcase.rb" timestamp="1498226105399" lastAccessTime="1498484495430">
     <attributes name="indexed" location="2838196607/1060010728/2679.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/07&#x30af;&#x30e9;&#x30b9;&#x30e2;&#x30b8;&#x30e5;&#x30fc;&#x30eb;/helloclass.rb" timestamp="1498225850201" lastAccessTime="1498378175441">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/07&#x30af;&#x30e9;&#x30b9;&#x30e2;&#x30b8;&#x30e5;&#x30fc;&#x30eb;/helloclass.rb" timestamp="1498225850201" lastAccessTime="1498484495438">
     <attributes name="indexed" location="2838196607/1060010728/2683.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/07&#x30af;&#x30e9;&#x30b9;&#x30e2;&#x30b8;&#x30e5;&#x30fc;&#x30eb;/hello_count.rb" timestamp="1498221675434" lastAccessTime="1498378175437">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/07&#x30af;&#x30e9;&#x30b9;&#x30e2;&#x30b8;&#x30e5;&#x30fc;&#x30eb;/hello_count.rb" timestamp="1498221675434" lastAccessTime="1498484495435">
     <attributes name="indexed" location="2838196607/1060010728/2677.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/07&#x30af;&#x30e9;&#x30b9;&#x30e2;&#x30b8;&#x30e5;&#x30fc;&#x30eb;/hello_module.rb" timestamp="1498227522589" lastAccessTime="1498378175439">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/07&#x30af;&#x30e9;&#x30b9;&#x30e2;&#x30b8;&#x30e5;&#x30fc;&#x30eb;/hello_module.rb" timestamp="1498227522589" lastAccessTime="1498484495437">
     <attributes name="indexed" location="2838196607/1060010728/2675.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/07&#x30af;&#x30e9;&#x30b9;&#x30e2;&#x30b8;&#x30e5;&#x30fc;&#x30eb;/point.rb" timestamp="1498220502351" lastAccessTime="1498378175421">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/07&#x30af;&#x30e9;&#x30b9;&#x30e2;&#x30b8;&#x30e5;&#x30fc;&#x30eb;/point.rb" timestamp="1498220502351" lastAccessTime="1498484495421">
     <attributes name="indexed" location="2838196607/1060010728/2671.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/07&#x30af;&#x30e9;&#x30b9;&#x30e2;&#x30b8;&#x30e5;&#x30fc;&#x30eb;/R_array.rb" timestamp="1498216152392" lastAccessTime="1498378175424">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/07&#x30af;&#x30e9;&#x30b9;&#x30e2;&#x30b8;&#x30e5;&#x30fc;&#x30eb;/R_array.rb" timestamp="1498216152392" lastAccessTime="1498484495423">
     <attributes name="indexed" location="2838196607/1060010728/2685.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/07&#x30af;&#x30e9;&#x30b9;&#x30e2;&#x30b8;&#x30e5;&#x30fc;&#x30eb;/String_array_size.rb" timestamp="1498207520029" lastAccessTime="1498378175433">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/07&#x30af;&#x30e9;&#x30b9;&#x30e2;&#x30b8;&#x30e5;&#x30fc;&#x30eb;/String_array_size.rb" timestamp="1498207520029" lastAccessTime="1498484495431">
     <attributes name="indexed" location="2838196607/1060010728/2673.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/remainder.rb" timestamp="1498238205287" lastAccessTime="1498378175648">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/remainder.rb" timestamp="1498238205287" lastAccessTime="1498484495818">
     <attributes name="indexed" location="2838196607/4242284243/2687.idx"/>
   </entries>
   <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/.project" timestamp="1498231709874" lastAccessTime="1498378175507"/>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/Bit_Calc.rb" timestamp="1498289778301" lastAccessTime="1498378175632">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/Bit_Calc.rb" timestamp="1498289778301" lastAccessTime="1498484495805">
     <attributes name="indexed" location="2838196607/4242284243/2693.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/calc_sysmbol.rb" timestamp="1498237710336" lastAccessTime="1498378175642">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/calc_sysmbol.rb" timestamp="1498237710336" lastAccessTime="1498484495814">
     <attributes name="indexed" location="2838196607/4242284243/2701.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/ChangeNum.rb" timestamp="1498241638762" lastAccessTime="1498378175651">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/ChangeNum.rb" timestamp="1498241638762" lastAccessTime="1498484495819">
     <attributes name="indexed" location="2838196607/4242284243/2707.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/Divmod.rb" timestamp="1498237950936" lastAccessTime="1498378175635">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/Divmod.rb" timestamp="1498237950936" lastAccessTime="1498484495807">
     <attributes name="indexed" location="2838196607/4242284243/2689.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/literal.rb" timestamp="1498243361108" lastAccessTime="1498378175639">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/literal.rb" timestamp="1498243361108" lastAccessTime="1498484495810">
     <attributes name="indexed" location="2838196607/4242284243/2699.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/MathModule.rb" timestamp="1498241572713" lastAccessTime="1498378175694">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/MathModule.rb" timestamp="1498241572713" lastAccessTime="1498484495821">
     <attributes name="indexed" location="2838196607/4242284243/2695.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/numdownto.rb" timestamp="1498300955389" lastAccessTime="1498378175641">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/numdownto.rb" timestamp="1498300955389" lastAccessTime="1498484495812">
     <attributes name="indexed" location="2838196607/4242284243/2705.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/numstep.rb" timestamp="1498323137114" lastAccessTime="1498378175637">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/numstep.rb" timestamp="1498323137114" lastAccessTime="1498484495809">
     <attributes name="indexed" location="2838196607/4242284243/2691.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/numtimes.rb" timestamp="1498289778240" lastAccessTime="1498378175645">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/numtimes.rb" timestamp="1498289778240" lastAccessTime="1498484495816">
     <attributes name="indexed" location="2838196607/4242284243/2697.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/numupto.rb" timestamp="1498291618184" lastAccessTime="1498378175627">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/08Numeric/numupto.rb" timestamp="1498291618184" lastAccessTime="1498484495803">
     <attributes name="indexed" location="2838196607/4242284243/2703.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/.project" timestamp="1498304229312" lastAccessTime="1498378175731"/>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/outArray.rb" timestamp="1498311003913" lastAccessTime="1498378176153">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/.project" timestamp="1498304229312" lastAccessTime="1498484495917"/>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/outArray.rb" timestamp="1498311003913" lastAccessTime="1498484496992">
     <attributes name="indexed" location="2838196607/1938430034/2711.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/split.rb" timestamp="1498310676095" lastAccessTime="1498378176157">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/split.rb" timestamp="1498310676095" lastAccessTime="1498484497010">
     <attributes name="indexed" location="2838196607/1938430034/2727.idx"/>
   </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array" timestamp="1498482440750" lastAccessTime="1498484021799">
-    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3687312290/2751.idx"/>
-  </entries>
-  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x6761;&#x4ef6;&#x5206;&#x5c90;/Ifelse.rb" timestamp="1497597730218" lastAccessTime="1498484491537">
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/03&#x5236;&#x5fa1;&#x69cb;&#x6587;/&#x6761;&#x4ef6;&#x5206;&#x5c90;/Ifelse.rb" timestamp="1497597730218" lastAccessTime="1498484492662">
     <attributes name="indexed" location="2838196607/1127057504/2753.idx"/>
+  </entries>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/replaceArray_0.rb" timestamp="1498393001526" lastAccessTime="1498484496984">
+    <attributes name="indexed" location="2838196607/1938430034/2755.idx"/>
+  </entries>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/AddRemoveArrayElement.rb" timestamp="1498334281628" lastAccessTime="1498484496986">
+    <attributes name="indexed" location="2838196607/1938430034/2789.idx"/>
+  </entries>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/AddRemoveArrayElement_2.rb" timestamp="1498389549740" lastAccessTime="1498484497001">
+    <attributes name="indexed" location="2838196607/1938430034/2787.idx"/>
+  </entries>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/AddRemoveArrayElement_3.rb" timestamp="1498392038223" lastAccessTime="1498484497003">
+    <attributes name="indexed" location="2838196607/1938430034/2785.idx"/>
+  </entries>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/AddRemoveArreyElement_1.rb" timestamp="1498383187016" lastAccessTime="1498484497015">
+    <attributes name="indexed" location="2838196607/1938430034/2791.idx"/>
+  </entries>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/array1.rb" timestamp="1498304356832" lastAccessTime="1498484497021">
+    <attributes name="indexed" location="2838196607/1938430034/2757.idx"/>
+  </entries>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/arrayW.rb" timestamp="1498309410740" lastAccessTime="1498484497012">
+    <attributes name="indexed" location="2838196607/1938430034/2767.idx"/>
+  </entries>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/BondArray.rb" timestamp="1498318572302" lastAccessTime="1498484497000">
+    <attributes name="indexed" location="2838196607/1938430034/2775.idx"/>
+  </entries>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/changeArray.rb" timestamp="1498309867203" lastAccessTime="1498484497005">
+    <attributes name="indexed" location="2838196607/1938430034/2765.idx"/>
+  </entries>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/EachArray.rb" timestamp="1498474907869" lastAccessTime="1498484497026">
+    <attributes name="indexed" location="2838196607/1938430034/2777.idx"/>
+  </entries>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/FlatArray.rb" timestamp="1498397666378" lastAccessTime="1498484496980">
+    <attributes name="indexed" location="2838196607/1938430034/2759.idx"/>
+  </entries>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/NewAray.rb" timestamp="1498307512317" lastAccessTime="1498484497019">
+    <attributes name="indexed" location="2838196607/1938430034/2783.idx"/>
+  </entries>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/OperateArray.rb" timestamp="1498323135985" lastAccessTime="1498484496982">
+    <attributes name="indexed" location="2838196607/1938430034/2793.idx"/>
+  </entries>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/replaceArray.rb" timestamp="1498314103011" lastAccessTime="1498484496993">
+    <attributes name="indexed" location="2838196607/1938430034/2763.idx"/>
+  </entries>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/ReplaceArray_1.rb" timestamp="1498397333587" lastAccessTime="1498484497008">
+    <attributes name="indexed" location="2838196607/1938430034/2761.idx"/>
+  </entries>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/ReverceArray.rb" timestamp="1498398868009" lastAccessTime="1498484496988">
+    <attributes name="indexed" location="2838196607/1938430034/2781.idx"/>
+  </entries>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/SetArray.rb" timestamp="1498316199320" lastAccessTime="1498484496997">
+    <attributes name="indexed" location="2838196607/1938430034/2779.idx"/>
+  </entries>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/SortArray.rb" timestamp="1498469170393" lastAccessTime="1498484496995">
+    <attributes name="indexed" location="2838196607/1938430034/2773.idx"/>
+  </entries>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array/SortArray_1.rb" timestamp="1498474907887" lastAccessTime="1498484497014">
+    <attributes name="indexed" location="2838196607/1938430034/2769.idx"/>
+  </entries>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/09Array" timestamp="1498486765020" lastAccessTime="1498487196570">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3687312290/2797.idx"/>
+  </entries>
+  <entries path="C:/pleiades/workspace_Ruby/Ruby/10String" timestamp="1498493935957" lastAccessTime="1498494200200">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3687312290/2809.idx"/>
   </entries>
 </cache:CacheIndex>

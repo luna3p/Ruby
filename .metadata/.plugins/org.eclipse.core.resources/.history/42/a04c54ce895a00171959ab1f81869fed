@@ -1,0 +1,19 @@
+class HearDocument
+=begin
+
+  変数=
+  
+=end
+  
+  str1<<-EOS
+#1行目\n
+2行目
+  EOS
+  print str1
+  
+  str2=<<-'EOS'
+#1行目\n
+2行目
+  EOS
+  print str2
+end
