@@ -1,0 +1,9 @@
+class FlatArray
+  a=[1,2,[2,[3],3],[5],4]
+  p a
+  b=a.flatten
+  p a
+  p b
+  a.flatten
+  p a
+end

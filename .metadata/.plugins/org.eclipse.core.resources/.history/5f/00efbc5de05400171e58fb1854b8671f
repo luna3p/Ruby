@@ -1,4 +1,0 @@
-class Seiki
-
-  p /cdef/ =~"abcdefgh"
-end

@@ -1,4 +1,0 @@
-class PrintArgv
-  puts ARGF[0] 
-  puts ARGV[1]
-end
