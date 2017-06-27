@@ -1,0 +1,5 @@
+class Index
+  str="abcd"
+  print str[0].to_i
+  print str[0].chr
+end

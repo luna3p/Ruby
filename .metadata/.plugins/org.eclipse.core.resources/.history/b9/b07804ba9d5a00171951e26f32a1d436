@@ -1,0 +1,9 @@
+class Index
+  str="abcd"
+  puts str[0,2]
+  str1="あいうえお"
+  puts str1[0,2]
+  
+  p str.encoding
+  p str1.split(//u)[2]
+end

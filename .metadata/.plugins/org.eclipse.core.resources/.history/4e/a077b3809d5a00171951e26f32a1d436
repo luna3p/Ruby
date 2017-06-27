@@ -1,0 +1,9 @@
+class Index
+  str="abcd"
+  print str[0,2]
+  str1="あいうえお"
+  print str1[0,2]
+  
+  p str.encord
+  p str1.split(//u)[2]
+end

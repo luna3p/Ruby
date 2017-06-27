@@ -1,0 +1,4 @@
+class Index
+  str="abcd"
+  p str[0]
+end

@@ -1,0 +1,6 @@
+class ConnectString
+  str1="abc\n"
+  str2='def\n'
+  str3=str1+str2
+  print str3
+end

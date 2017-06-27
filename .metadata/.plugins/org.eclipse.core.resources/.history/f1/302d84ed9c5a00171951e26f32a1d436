@@ -1,0 +1,6 @@
+class Index
+  str="abcd"
+  print str[0,2]
+  str1="あいうえお"
+  print str[0,2]
+end

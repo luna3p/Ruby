@@ -1,0 +1,12 @@
+class Compare
+  
+  a="aaa"
+  p a=="aaa"
+  p a!="aaa"
+  p a=="aa"
+  p a!="aa"
+  
+  p a<="b"
+  p a>="b"
+  p a<="ab"
+end
