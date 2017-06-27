@@ -1,4 +1,0 @@
-class Unpack
-  s = "abcdefghtavfddvf"
-  p s.unpack("aS2*kl")
-end

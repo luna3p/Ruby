@@ -1,5 +1,0 @@
-class MathModule
-  
-  p PI
-  p sin(PI/3)
-end

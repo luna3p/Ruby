@@ -1,6 +1,0 @@
-class Index
-  str="abcd"
-  4.times{|i|
-    p str[i]
-  }
-end

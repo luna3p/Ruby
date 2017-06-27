@@ -1,8 +1,0 @@
-def fetch_and(array, index)
-  if str =array[index]
-    return str.downcase
-  end
-end
-
-ary=["Boo", "Foo", "Woo"]
-p fetch_and(ary, 1)

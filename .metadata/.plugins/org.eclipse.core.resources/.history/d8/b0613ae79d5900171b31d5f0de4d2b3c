@@ -1,7 +1,0 @@
-class AddRemoveArrayElement_3
-  a=[1,2,4,3,2,5,1,2,7,9]
-  p a.uniq
-  p a
-  a.uniq!
-  p a
-end

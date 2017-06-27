@@ -1,8 +1,0 @@
-class AddRemoveArrayElement
-  a=[1,2,3,4,5,6]
-  a<<7 #最後の要素に7を追加する。
-  p a
-  a.contact([8,9])
-  p a
-  
-end

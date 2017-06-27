@@ -1,5 +1,0 @@
-class Index
-  str="abcd"
-  print str[0]
-  print str[0].chr
-end

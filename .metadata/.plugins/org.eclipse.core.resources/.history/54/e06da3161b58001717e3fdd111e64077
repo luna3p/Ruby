@@ -1,8 +1,0 @@
-def Downcse(array, index)
-  if str =aray[index]
-    return str.downcase
-  end
-end
-
-ary=["Boo", "Foo", "Woo"]
-p downcase(ary, 1)

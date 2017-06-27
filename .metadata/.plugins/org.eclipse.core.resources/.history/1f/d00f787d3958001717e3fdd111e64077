@@ -1,6 +1,0 @@
-include Math
-class MathModule
-  
-  p PI.round(4)
-  p sin(PI/6).round(4)
-end

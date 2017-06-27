@@ -1,3 +1,0 @@
-class Divmod
-  p 10.divmod(4)
-end

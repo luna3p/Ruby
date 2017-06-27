@@ -1,6 +1,0 @@
-class OperateArray
-  str=%w(b c d e f g)
-  p str.push("h")
-  p str.shift("a")
-  
-end

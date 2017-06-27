@@ -1,7 +1,0 @@
-include Math
-class MathModule
-  #roundメソッドは、round(x)で小数点以下を有効桁数xとする。
-  p PI.round(4)
-  p sin(PI/6).round(4)
-  p cos(PI/3).round(4)
-end

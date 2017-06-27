@@ -1,8 +1,0 @@
-class ReverceArray
-  a=[1,2,4,5,3,6,8,1,2]
-  p a
-  b=a.reverse
-  p b
-  a.reverse!
-  p a
-end

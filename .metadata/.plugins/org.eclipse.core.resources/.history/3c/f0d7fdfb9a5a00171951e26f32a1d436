@@ -1,4 +1,0 @@
-class Index
-  str="abcd"
-  print str[0]
-end

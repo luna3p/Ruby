@@ -1,6 +1,0 @@
-class String
-  s1="aiueo"
-  s2='aiueo'
-  p s1
-  p s2
-end

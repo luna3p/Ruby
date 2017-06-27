@@ -1,9 +1,0 @@
-class ReplaceArray_1
-  ARY=[0,1,2,3,4,5,6,7,8,9]
-  p ARY
-  a=ARY
-  a.fill(0)
-  p a
-  p ARY 
-  
-end

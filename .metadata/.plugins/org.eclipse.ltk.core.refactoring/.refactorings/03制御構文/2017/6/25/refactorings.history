@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename source module &apos;繰り返し.for_array.rb&apos; to &apos;For_array.rb&apos;&#x0D;&#x0A;- オリジナル要素: &apos;繰り返し::for_array.rb&apos;&#x0D;&#x0A;- 名前変更済み要素: &apos;繰り返し::For_array.rb&apos;" description="Rename source module &apos;for_array.rb&apos;" flags="589830" id="org.eclipse.dltk.ui.rename.sourcemodule" input="/&lt;繰り返し{for_array.rb" name="For_array.rb" stamp="1498029796312" version="1.0"/>
-</session>

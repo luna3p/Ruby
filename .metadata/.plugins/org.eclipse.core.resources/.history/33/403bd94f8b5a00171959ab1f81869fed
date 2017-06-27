@@ -1,5 +1,0 @@
-class StringSize
-  str1=%Q(abcdefg)
-  puts str1
-  p str1.size
-end

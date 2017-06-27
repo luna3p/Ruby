@@ -1,8 +1,0 @@
-def fetch_and_downcse(array, index)
-  if str =array[index]
-    return str.downcase
-  end
-end
-
-ary=["Boo", "Foo", "Woo"]
-p fetch_and_downcse(ary, 1)

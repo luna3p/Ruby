@@ -1,9 +1,0 @@
-class Next_redo_break
-  1.times{
-    print "0~9の数を入力いてください："
-    b=gets.to_i
-    unless b>=0 && b<=9
-      redo
-    end
-  }
-end

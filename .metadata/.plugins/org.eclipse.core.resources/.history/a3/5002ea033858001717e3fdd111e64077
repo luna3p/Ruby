@@ -1,6 +1,0 @@
-include Math
-class MathModule
-  
-  p PI
-  p sin(PI)
-end

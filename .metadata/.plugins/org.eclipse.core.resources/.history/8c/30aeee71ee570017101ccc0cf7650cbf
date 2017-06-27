@@ -1,9 +1,0 @@
-class String_array_size
-  def count_word
-    array=self.split(/\s+/)
-    return array.size
-  end
-end
-
-str="Sunday Monday Tuesday Wednesday"
-p str.split(" ").size

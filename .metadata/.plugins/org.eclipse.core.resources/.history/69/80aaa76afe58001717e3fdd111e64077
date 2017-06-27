@@ -1,5 +1,0 @@
-class AddArrayElement
-  a=[1,2,3,4,5,6]
-  a<<7 #7を追加する。
-  p a
-end

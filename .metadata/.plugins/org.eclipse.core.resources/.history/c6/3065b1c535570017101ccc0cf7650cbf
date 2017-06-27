@@ -1,5 +1,0 @@
-class Call_Hello_with_name
-  require "./Hello_with_name"
-  a=gets.chomp
-  hello(a)
-end

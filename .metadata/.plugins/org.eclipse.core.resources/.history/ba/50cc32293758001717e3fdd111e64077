@@ -1,7 +1,0 @@
-class Remainder
-  x=16
-  y=7
-  p x%y
-  p x.modulo(y)
-  p x.remainder(y)
-end

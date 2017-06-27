@@ -1,7 +1,0 @@
-class Numstepto
-  ary=[]
-  2.step(20,3){|i|
-    ary<<i
-  }
-  p ary
-end

@@ -1,4 +1,0 @@
-class String1
-  s1=%q(aiueo)
-  print s1
-end

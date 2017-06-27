@@ -1,5 +1,0 @@
-class Version
-  Version = "1.0"
-end
-
-p Version::Version

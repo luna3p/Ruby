@@ -1,8 +1,0 @@
-class While
-#while繰り返し文は、 while 繰り返し条件 then 実行したい式 end
-  a=1
-  while a!=10
-    puts a
-    a+=1
-  end
-end
